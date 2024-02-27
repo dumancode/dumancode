@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumancode&label=Profile%20views&color=0e75b6&style=flat" alt="dumancode" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and JSON**
+- 🌱 I’m currently learning **Flutter and JSON**
 
 - 💬 Ask me about **JAVA,CSS,HTML5,JavaScript and C,C++**
 
