@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumancode&label=Profile%20views&color=0e75b6&style=flat" alt="dumancode" /> </p>
 
-- 🌱 I’m currently learning **Flutter and JSON**
 
-- 💬 Ask me about **JAVA,CSS,HTML5,JavaScript and C,C++**
 
-- 📫 How to reach me **duman.furkan@metu.edu.tr**
 
-- ⚡ Fun fact **I think I am a robot**
+- 📫 How to reach me **duman.furkan@tu-dortmund.de**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
