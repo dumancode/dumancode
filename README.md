@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Furkan Duman</h1>
-<h3 align="center">A passionate full-stack developer from Türkiye</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dumancode&label=Profile%20views&color=0e75b6&style=flat" alt="dumancode" /> </p>
