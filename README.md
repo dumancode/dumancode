@@ -1,28 +1,54 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Furkan Duman</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/11/What-Is-A-Full-Stack-Developer-and-Everything-You-Need-to-Know-to-Start.jpg">
+# Furkan Duman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dumancode&label=Profile%20views&color=0e75b6&style=flat" alt="dumancode" /> </p>
+Computer Engineer / Data Scientist  
+MSc Data Science at TU Dortmund University  
+BSc Computer Engineering, Middle East Technical University
 
+I build software and data systems around AI, eye-tracking, probabilistic modeling, and applied machine learning. My work sits somewhere between research code and product-minded engineering: clean pipelines, interpretable results, and systems that can actually be inspected.
 
+## Current Focus
 
+- AI implementation and evaluation workflows
+- Eye-tracking data analysis and web-based gaze systems
+- Simulation-based inference and probabilistic modeling
+- Applied machine learning for behavioral and cognitive data
+- Data-heavy software systems with clear engineering structure
 
-- 📫 How to reach me **duman.furkan@tu-dortmund.de**
+## Selected Work
 
+- [Personal portfolio](https://furkanduman.com)  
+  Bilingual portfolio, project notes, and technical writing.
 
+- [EASIEST: AI-Based Autism Diagnosis Support](https://furkanduman.com/en/projects/easiest-ai-autism-diagnosis-system/)  
+  Web-based eye-tracking system for ASD screening support.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furkan-duman0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-duman0" height="30" width="40" /></a>
-<a href="https://instagram.com/furkanmiduman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanmiduman" height="30" width="40" /></a>
-</p>
+- [Web-Based Eye Tracker Accuracy Finder](https://furkanduman.com/en/projects/web-eye-tracker-accuracy-finder/)  
+  Browser-based validation tool for measuring webcam eye-tracker reliability.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- [Simulation-Based Inference with the SWIFT Model](https://furkanduman.com/en/projects/swift-bayesflow-sbi/)  
+  BayesFlow-based amortized inference workflow for simplified eye-movement modeling.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumancode&show_icons=true&locale=en&layout=compact" alt="dumancode" /></p>
+- [FashionMNIST Robustness Study](https://furkanduman.com/en/projects/fashionmnist-robustness/)  
+  PyTorch Lightning pipeline comparing CNN/MLP models and augmentation robustness.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dumancode&show_icons=true&locale=en" alt="dumancode" /></p>
+## Technical Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dumancode&" alt="dumancode" /></p>
+Python, R, Java, C, C#, JavaScript, SQL  
+PyTorch, TensorFlow, BayesFlow, Stan/brms, scikit-learn  
+Flask, SQLAlchemy, PostgreSQL, MySQL, Docker  
+Pandas, NumPy, Matplotlib, Seaborn  
+Git, Linux, LaTeX, RMarkdown
+
+## Writing
+
+I also write short technical notes on the ideas behind my projects:
+
+- [Why eye tracker accuracy needs to be tested](https://furkanduman.com/en/blog/why-eye-tracker-accuracy-needs-testing/)
+- [What simulation-based inference actually solves](https://furkanduman.com/en/blog/what-simulation-based-inference-solves/)
+- [Why false discovery rate matters in modern biology](https://furkanduman.com/en/blog/why-fdr-matters-computational-biology/)
+
+## Contact
+
+- Website: [furkanduman.com](https://furkanduman.com)
+- LinkedIn: [linkedin.com/in/furkan-duman0](https://www.linkedin.com/in/furkan-duman0)
+- Email: [furkan.duman@tu-dortmund.de](mailto:furkan.duman@tu-dortmund.de)
