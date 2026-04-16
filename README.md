@@ -16,19 +16,19 @@ I build software and data systems around AI, eye-tracking, probabilistic modelin
 
 ## Selected Work
 
-- [Personal portfolio](https://furkanduman.com)  
+- [Personal portfolio](https://furkanduman.info)  
   Bilingual portfolio, project notes, and technical writing.
 
-- [EASIEST: AI-Based Autism Diagnosis Support](https://furkanduman.com/en/projects/easiest-ai-autism-diagnosis-system/)  
+- [EASIEST: AI-Based Autism Diagnosis Support](https://furkanduman.info/en/projects/easiest-ai-autism-diagnosis-system/)  
   Web-based eye-tracking system for ASD screening support.
 
-- [Web-Based Eye Tracker Accuracy Finder](https://furkanduman.com/en/projects/web-eye-tracker-accuracy-finder/)  
+- [Web-Based Eye Tracker Accuracy Finder](https://furkanduman.info/en/projects/web-eye-tracker-accuracy-finder/)  
   Browser-based validation tool for measuring webcam eye-tracker reliability.
 
-- [Simulation-Based Inference with the SWIFT Model](https://furkanduman.com/en/projects/swift-bayesflow-sbi/)  
+- [Simulation-Based Inference with the SWIFT Model](https://furkanduman.info/en/projects/swift-bayesflow-sbi/)  
   BayesFlow-based amortized inference workflow for simplified eye-movement modeling.
 
-- [FashionMNIST Robustness Study](https://furkanduman.com/en/projects/fashionmnist-robustness/)  
+- [FashionMNIST Robustness Study](https://furkanduman.info/en/projects/fashionmnist-robustness/)  
   PyTorch Lightning pipeline comparing CNN/MLP models and augmentation robustness.
 
 ## Technical Stack
@@ -43,9 +43,9 @@ Git, Linux, LaTeX, RMarkdown
 
 I also write short technical notes on the ideas behind my projects:
 
-- [Why eye tracker accuracy needs to be tested](https://furkanduman.com/en/blog/why-eye-tracker-accuracy-needs-testing/)
-- [What simulation-based inference actually solves](https://furkanduman.com/en/blog/what-simulation-based-inference-solves/)
-- [Why false discovery rate matters in modern biology](https://furkanduman.com/en/blog/why-fdr-matters-computational-biology/)
+- [Why eye tracker accuracy needs to be tested](https://furkanduman.info/en/blog/why-eye-tracker-accuracy-needs-testing/)
+- [What simulation-based inference actually solves](https://furkanduman.info/en/blog/what-simulation-based-inference-solves/)
+- [Why false discovery rate matters in modern biology](https://furkanduman.info/en/blog/why-fdr-matters-computational-biology/)
 
 ## Contact
 
