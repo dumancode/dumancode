@@ -16,8 +16,6 @@ I build software and data systems around AI, eye-tracking, probabilistic modelin
 
 ## Selected Work
 
-- [Personal portfolio](https://furkanduman.info)  
-  Bilingual portfolio, project notes, and technical writing.
 
 - [EASIEST: AI-Based Autism Diagnosis Support](https://furkanduman.info/en/projects/easiest-ai-autism-diagnosis-system/)  
   Web-based eye-tracking system for ASD screening support.
